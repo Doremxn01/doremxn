@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Doremxn</title>
+<meta name="description" content="Doremxn: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+
+<meta property="og:url" content="https://sciencegear.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Doremxn">
+<meta property="og:description" content="Doremxn: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+<meta property="og:image" content="https://i.imgur.com/HB32QqX.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="sciencegear.netlify.app">
+<meta property="twitter:url" content="https://sciencegear.netlify.app/">
+<meta name="twitter:title" content="Doremxn">
+<meta name="twitter:description" content="Doremxn: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+<meta name="twitter:image" content="https://i.imgur.com/HB32QqX.png">
+
+<link rel="shortcut icon" href="assets3/favicons/img-favicon.png" type="image/x-icon">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+<link rel="stylesheet" href="assets/css/_assets_css_swiper-bundle.min.css">
+
+<link rel="stylesheet" href="assets/css/_assets_css_styles.css">
+
+<link rel="stylesheet" href="assets/css/about.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<title>Doremxn</title>
+<script type="module" src="https://securepubads.shareusads.com/scripts/tag/js/sgpt.js"></script>
+<script>
+     window._shareustag = window._shareustag || {cmd:[]};
+    _shareustag.cmd.push(function() {
+      var slot1 = _shareustag.defineAutoAdSlot('/shareusadx/7948559202374590/2080399129/Auto Ads');
+    });
+  </script>
+</head>
+<body>
+
+<header class="header" id="header">
+<nav class="nav container">
+<a href="/" class="nav__logo">
+<img src="assets/img/assets_real_logo.png" alt class="nav__logo-img">
+Doremxn
+</a>
+<div class="nav__menu" id="nav-menu">
+<ul class="nav__list">
+<li class="nav__item">
+<a href="index.html" class="nav__link">Home</a>
+</li>
+<li class="nav__item">
+<a href="about" class="nav__link active-link">About</a>
+</li>
+<li class="nav__item">
+<a href="codes" class="nav__link">Codes</a>
+</li>
+<li class="nav__item">
+<a href="freeapi" class="nav__link">Free API</a>
+</li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="button button--ghost">Support</a>
+</ul>
+<div class="nav__close" id="nav-close">
+<i class="bx bx-x"></i>
+</div>
+<img src="assets/img/_assets_img_nav-img.png" alt class="nav__img">
+</div>
+<div class="nav__toggle" id="nav-toggle">
+<i class="bx bx-grid-alt"></i>
+</div>
+</nav>
+</header>
+<main class="main">
+<div class="swiper home-swiper">
+<section class="team">
+<div id="stars-container"></div>
+<div class="wrapper">
+<div class="background-container">
+<div class="bg-1"></div>
+<div class="bg-2"></div>
+</div>
+<div class="about-container">
+<div class="image-container">
+<img src="assets/img/flying.png" alt="Doremxn">
+</div>
+<div class="text-container">
+<h1>About us</h1>
+<p>Hello, I'm a professional programmer 🖥️, as well as a videographer and photographer 📷. Crafting web experiences with HTML, CSS, and JavaScript is my forte. I enjoy bringing ideas to life with Python 🐍. Let's create amazing things together</p>
+
+<div class="social-icons">
+<a href="https://youtube.com/@doremxn_coder?si=BgmZY3hYqk46yLaE" target="_blank" class="social-icon">
+<i class="bx bxl-youtube"></i>
+</a>
+<a href="https://discord.com/invite/2bNWDJRccK" target="_blank" class="social-icon">
+<i class="bx bxl-discord"></i>
+</a>
+<a href="https://www.instagram.com/doremon.fr" target="_blank" class="social-icon">
+<i class="bx bxl-instagram"></i>
+</a>
+<a href="https://twitter.com/doremxn01"target="_blank" class="social-icon">
+<i class="bx bxl-twitter"></i>
+</a>
+<a href="https://github.com/Doremxn01" target="_blank" class="social-icon">
+<i class="bx bxl-github"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+<footer class="footer section">
+<div class="footer__container container grid">
+<div class="footer__content">
+<a href="#" class="footer__logo">
+<img src="assets/img/_assets_img_nav-img.png" alt class="footer__logo-img">
+Doremxn
+</a>
+<p class="footer__description">Active open-source contributor and coder.</p>
+<div class="footer__social">
+<a href="https://youtube.com/@doremxn_coder?si=BgmZY3hYqk46yLaE" target="_blank" class="footer__social-link">
+<i class="bx bxl-youtube"></i>
+</a>
+<a href="https://discord.com/invite/2bNWDJRccK" target="_blank" class="footer__social-link">
+<i class="bx bxl-discord"></i>
+</a>
+<a href="https://www.instagram.com/doremon.fr" target="_blank" class="footer__social-link">
+<i class="bx bxl-instagram"></i>
+</a>
+<a href="https://twitter.com/doremxn01"target="_blank" class="footer__social-link">
+<i class="bx bxl-twitter"></i>
+</a>
+<a href="https://github.com/Doremxn01" target="_blank" class="footer__social-link">
+<i class="bx bxl-github"></i>
+</a>
+</div>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">About</h3>
+<ul class="footer__links">
+<li>
+<a href="about" class="footer__link">About Us</a>
+</li>
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Discord</a>
+</li>
+<li>
+<a href="https://youtube.com/@doremxn_coder?si=BgmZY3hYqk46yLaE" class="footer__link">Youtube</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">Staff</h3>
+<ul class="footer__links">
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Apply</a>
+</li>
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Results</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">Donate</h3>
+<ul class="footer__links">
+<li>
+<a href="https://www.buymeacoffee.com/doremxn01" class="footer__link">Buy Me a Coffee</a>
+</li>
+</ul>
+</div>
+</div>
+<span class="footer__copy">&#169; Doremxn. All rigths reserved</span>
+<img src="assets/img/_assets_img_footer1-img.png" alt class="footer__img-one">
+<img src="assets/img/_assets_img_footer2-img.png" alt class="footer__img-two">
+</footer>
+
+<a href="#" class="scrollup" id="scroll-up">
+<i class="bx bx-up-arrow-alt scrollup__icon"></i>
+</a>
+
+<script src="assets/js/_assets_js_scrollreveal.min.js"></script>
+
+<script src="assets/js/_assets_js_swiper-bundle.min.js"></script>
+
+<script src="assets/js/_assets_js_main.js"></script>
+
+<script src="assets/js/_assets_js_stars.js"></script>
+
+<script src="assets/js/_assets_js_button.js"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8a2ee624cd7d5ffe',t:'MTcyMDkzMjcwMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"8a2ee624cd7d5ffe","version":"2024.6.1","r":1,"token":"5da9fe3afe974ac58455686c2d6fcf6f","serverTiming":{}}' crossorigin="anonymous"></script>
+</body>
+</html>

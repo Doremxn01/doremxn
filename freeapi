@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Doremxn</title>
+<meta name="description" content="Doremxn: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+
+<meta property="og:url" content="https://sciencegear.netlify.app/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Doremxn">
+<meta property="og:description" content="Doremxn: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+<meta property="og:image" content="https://i.imgur.com/HB32QqX.png">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="sciencegear.netlify.app">
+<meta property="twitter:url" content="https://sciencegear.netlify.app/">
+<meta name="twitter:title" content="Science Gear">
+<meta name="twitter:description" content="ScienceGear: We provide code solutions for science and tech fans. Visit our website and YouTube for helpful resources.">
+<meta name="twitter:image" content="https://i.imgur.com/HB32QqX.png">
+
+<link rel="shortcut icon" href="assets2/favicons/img-favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+
+<link rel="stylesheet" href="assets2/css/css-swiper-bundle.min.css">
+
+<link rel="stylesheet" href="assets2/css/css-styles.css">
+<link rel="stylesheet" href="assets2/css/css-freeapi.css"></head><body><p>
+&gt;
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+
+<script src="assets2/js/jquery-3.5.1.slim.min.js"></script>
+<script src="assets2/js/umd-popper.min.js"></script>
+<script src="assets2/js/js-bootstrap.min.js"></script>
+</p><title>Science Gear</title>
+<script type="module" src="assets2/js/js-sgpt.js"></script>
+<script>
+     window._shareustag = window._shareustag || {cmd:[]};
+    _shareustag.cmd.push(function() {
+      var slot1 = _shareustag.defineAutoAdSlot('/shareusadx/7948559202374590/2080399129/Auto Ads');
+    });
+  </script>
+
+
+
+<header class="header" id="header">
+<nav class="nav container">
+<a href="www.gearhost.my.html" class="nav__logo">
+<img src="assets2/images/img-logo.png" alt class="nav__logo-img">
+Doremxn
+</a>
+<div class="nav__menu" id="nav-menu">
+<ul class="nav__list">
+<li class="nav__item">
+<a href="index.html" class="nav__link">Home</a>
+</li>
+<li class="nav__item">
+<a href="about" class="nav__link">About</a>
+</li>
+<li class="nav__item">
+<a href="codes" class="nav__link">Codes</a>
+</li>
+<li class="nav__item">
+<a href="freeapi" class="nav__link active-link">Free API</a>
+</li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="button button--ghost">Support</a>
+</ul>
+<div class="nav__close" id="nav-close">
+<i class="bx bx-x"></i>
+</div>
+<img src="assets2/images/img-nav-img.png" alt class="nav__img">
+</div>
+<div class="nav__toggle" id="nav-toggle">
+<i class="bx bx-grid-alt"></i>
+</div>
+</nav>
+</header>
+<main class="main">
+<div class="f-container">
+<div id="stars-container"></div>
+<div class="message-container">
+<p class="message-content" id="api-data">
+</p>
+  <h2>Mongdb</h2>
+<input type="text" id="input-box" value="mongodb+srv://public:subscribetosciencegear@cluster0.isoevg5.mongodb.net/?retryWrites=true&w=majority" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Spotify Cleint ID</h2>
+<input type="text" id="input-box1" value="731ac5bf0603411f80ac446f5c02e290" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Spotify Cleint Secret</h2>
+<input type="text" id="input-box2" value="cd16a34c385b4fa5915abd596fd4e480" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Giphy API</h2>
+<input type="text" id="input-box3" value="Ts5eICl4sonGnf59kw0hAcf95J8v5D6I" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Google API</h2>
+<input type="text" id="input-box4" value="AIzaSyD53nBkeqBuAKhjK3l-1ylhT3azzKeYEA0" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Spotify Engine ID</h2>
+<input type="text" id="input-box5" value="420d51bda1a4e4c43" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Youtube API</h2>
+<input type="text" id="input-box6" value="420d51bda1a4e4c43" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Memer API</h2>
+<input type="text" id="input-box7" value="rNHOuT7edCJ" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+<h2>Cat API</h2>
+<input type="text" id="input-box8" value="589b8eb2-0184-4577-8309-c2ecf0fb102b" style="width: 75%; padding: 10px; border: 1px solid #ccc; background-color: transparent; color: #fff;">
+<button style="width: 23%; padding: 10px; border: none; border-radius: 5px; background-color: #4CAF50; color: #fff; cursor: pointer;" onclick="copyText()">Copy</button>
+  
+
+
+  <script>
+    function copyText(id) {
+      var copyText = document.getElementById("input-box" + id);
+      var clipboard = new ClipboardJS(copyText);
+      clipboard.on("success", function() {
+        alert("Copied to clipboard!");
+      });
+      clipboard.on("error", function() {
+        alert("Error copying to clipboard!");
+      });
+    }
+  </script>
+  
+</div>
+</div>
+</main>
+
+<footer class="footer section">
+<div class="footer__container container grid">
+<div class="footer__content">
+<a href="#" class="footer__logo">
+<img src="images/img-logo.png" alt class="footer__logo-img">
+Doremxn
+</a>
+<p class="footer__description">Active open-source contributor and coder.</p>
+<div class="footer__social">
+<a href="https://youtube.com/@doremxn_coder?si=um2A5pefUg2CC_Dl" target="_blank" class="footer__social-link">
+<i class="bx bxl-youtube"></i>
+</a>
+<a href="https://discord.com/invite/2bNWDJRccK" target="_blank" class="footer__social-link">
+<i class="bx bxl-discord"></i>
+</a>
+<a href="https://www.instagram.com/doremon.fr" target="_blank" class="footer__social-link">
+<i class="bx bxl-instagram"></i>
+</a>
+<a href="https://x.com/doremxn01" target="_blank" class="footer__social-link">
+<i class="bx bxl-twitter"></i>
+</a>
+<a href="https://github.com/Doremxn01" target="_blank" class="footer__social-link">
+<i class="bx bxl-github"></i>
+</a>
+</div>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">About</h3>
+<ul class="footer__links">
+<li>
+<a href="about" class="footer__link">About Us</a>
+</li>
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Discord</a>
+</li>
+<li>
+<a href="https://youtube.com/@doremxn_coder?si=um2A5pefUg2CC_Dl" class="footer__link">Youtube</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">Staff</h3>
+<ul class="footer__links">
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Apply</a>
+</li>
+<li>
+<a href="https://discord.com/invite/2bNWDJRccK" class="footer__link">Results</a>
+</li>
+</ul>
+</div>
+<div class="footer__content">
+<h3 class="footer__title">Donate</h3>
+<ul class="footer__links">
+<li>
+<a href="https://www.buymeacoffee.com/Doremxn01" class="footer__link">Buy Me a Coffee</a>
+</li>
+</ul>
+</div>
+</div>
+<span class="footer__copy">&copy; Doremxn. All rigths reserved</span>
+<img src="assets2/images/img-footer1-img.png" alt class="footer__img-one">
+<img src="assets2/images/img-footer2-img.png" alt class="footer__img-two">
+</footer>
+
+<a href="#" class="scrollup" id="scroll-up">
+<i class="bx bx-up-arrow-alt scrollup__icon"></i>
+</a>
+
+<script src="assets2/js/js-api-data.js"></script>
+
+<script src="assets2/js/js-swiper-bundle.min.js"></script>
+
+<script src="assets2/js/js-main.js"></script>
+
+<script src="assets2/js/js-stars.js"></script>
+
+<script src="assets2/js/js-button.js"></script>
+<script src="js/js-copy.js"></script>
+<script src="assets2/js/js-api.js"></script>
+<script src="assets2/js/dist-showdown.min.js"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8a40c0eb2e05b9f8',t:'MTcyMTExOTkyMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+</body></html>
